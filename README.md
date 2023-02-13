@@ -10,4 +10,4 @@ With the directory open, type
 
  This will upload the files to IPFS and will give you a link to where you can find the hosted game. 
 
-# This repo also includes the .unitypackage which has all of the code used for this project.
+### This repo also includes the .unitypackage which has all of the code used for this project.
